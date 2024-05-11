@@ -1,0 +1,10 @@
+### Sass cache folder
+/wp-content/themes/base-theme/.sass-cache/*
+
+### Node modules
+node_modules
+
+### Miscellaneous
+.DS_Store
+Thumbs.db
+.htaccess
