@@ -3,8 +3,8 @@
 <!-- Remove this content to add yours -->
 
 <div id="app" class="container">
-    <formu></formu>
-    <!-- <example></example> -->
+    <!-- <formu></formu> -->
+    <example></example>
 </div>
 
 <!-- Remove this content to add yours -->

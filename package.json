@@ -1,6 +1,6 @@
 {
-  "name": "new-base-theme",
-  "version": "1.0.0",
+  "name": "8889wpbase",
+  "version": "2.0.0",
   "description": "Base theme for new wordpress projects",
   "main": "index.js",
   "scripts": {

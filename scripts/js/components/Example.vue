@@ -12,13 +12,13 @@ export default {
     console.log("Mounted soy el vue!");
     this.$swal({
       title: 'Bien hecho!',
-      text: 'base-theme se ha instalado correctamente',
+      text: 'WP-base-theme se ha instalado correctamente',
       icon: 'success'
     });
   },
   data: function() {
     return {
-      text: "Base theme instalado!",
+      text: "WP Base theme instalado!",
     };
   },
 };
